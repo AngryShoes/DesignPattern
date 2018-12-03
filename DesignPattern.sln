@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "D:\ROOT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "D:\ROOT\BookStore\ProxyPattern\ProxyPattern\ProxyPattern.csproj", "{064ED7D6-5A9C-4DC0-8441-2929580D8EB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP", "..\..\..\Documents\Visual Studio 2017\Projects\EFDemo\AOP\AOP.csproj", "{D64412AC-64E2-4677-B3F0-94999FA9CEFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{064ED7D6-5A9C-4DC0-8441-2929580D8EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{064ED7D6-5A9C-4DC0-8441-2929580D8EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{064ED7D6-5A9C-4DC0-8441-2929580D8EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D64412AC-64E2-4677-B3F0-94999FA9CEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64412AC-64E2-4677-B3F0-94999FA9CEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64412AC-64E2-4677-B3F0-94999FA9CEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64412AC-64E2-4677-B3F0-94999FA9CEFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

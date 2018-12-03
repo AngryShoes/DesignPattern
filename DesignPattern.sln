@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "D:\ROOT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "D:\ROOT\BookStore\ProxyPattern\ProxyPattern\ProxyPattern.csproj", "{064ED7D6-5A9C-4DC0-8441-2929580D8EB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP", "..\..\..\Documents\Visual Studio 2017\Projects\EFDemo\AOP\AOP.csproj", "{D64412AC-64E2-4677-B3F0-94999FA9CEFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP", "AOP\AOP.csproj", "{D64412AC-64E2-4677-B3F0-94999FA9CEFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
